@@ -1,2 +1,2 @@
 # Codecademy-Python
-Learning and doing projects on code academy.
+Learning Python and doing projects on code academy.
